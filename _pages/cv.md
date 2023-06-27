@@ -9,6 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
+<object data="../files/CV.pdf" type="application/pdf" width="1000px" height="1000px" type='application/pdf'></object>
+
+
+
 Education
 ======
 * B.S. in GitHub, GitHub University, 2012
