@@ -1,8 +1,10 @@
 body {
-	font-family: Arial, sans-serif;
-	margin-left: 200px;
-	margin-right: 200px;
+  font-family: Arial, sans-serif;
+  margin-left: 25rem;
+  margin-right: 25rem;
+  font-size: 20px;
 }
+
 
 nav {
   width: 100%;
